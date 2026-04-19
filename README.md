@@ -53,4 +53,4 @@ This repository contains the design files for a **Buck Converter** PCB project, 
 3. **Testing:** The board includes dedicated test points (**in1**, **in2**, **out1**, **out2**) for monitoring input and output voltages[cite: 15, 16].
 
 ## Author
-**Sandeep Kumar** [cite: 1, 16]
+**Sandeep Kumar** 
